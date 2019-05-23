@@ -2,7 +2,7 @@
 	"trainings": [
 		{
 			"id" : 52703,
-			"course_code" : "S06"
+			"course_code" : "S06",
 			"course_name" : "S06 : หลักสูตรการจัดทำรายงานความยั่งยืน (Sustainability Reporting)",
 			"session_number" : "0001",
 			"begin_register" : "2019-06-01 00:00:00.0",
@@ -30,7 +30,7 @@
 		},
 		{
 			"course_id" : 52704,
-			"course_code" : "S06"
+			"course_code" : "S06",
 			"course_name" : "S06 : หลักสูตรการจัดทำรายงานความยั่งยืน (Sustainability Reporting)",
 			"session_number" : "0002",
 			"begin_register" : "2019-06-01 00:00:00.0",
@@ -58,7 +58,7 @@
 		},
 		{
 			"course_id" : 52704,
-			"course_code" : "S06"
+			"course_code" : "S06",
 			"course_name" : "S06 : หลักสูตรการจัดทำรายงานความยั่งยืน (Sustainability Reporting)",
 			"session_number" : "0003",
 			"begin_register" : "2019-06-01 00:00:00.0",
